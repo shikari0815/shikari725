@@ -1,4 +1,0 @@
-function imgchange1(){document.getElementById('logo').src='./image/https://www.google.com/url?sa=i&url=https%3A%2F%2Fcar-moby.jp%2Farticle%2Fcar-life%2Fautomobile-inspection-maintenance%2Fnarrow-porsche%2F&psig=AOvVaw022Bs7SfRlFajM8xvBdPEZ&ust=1612948273564000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID696C73O4CFQAAAAAdAAAAABAD';}
-function imgchange2(){document.getElementById('logo').src='./image/';}
-function imgchange3(){document.getElementById('logo').src='./image/';}
-function imgchange4(){document.getElementById('logo').src='./image/';}
